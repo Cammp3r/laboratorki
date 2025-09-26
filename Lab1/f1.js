@@ -1,7 +1,6 @@
-// #1
 
 function incNum(n) {
-    return n*2;
+    return n + 1;
 }
 
 const r = 10;

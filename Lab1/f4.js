@@ -4,10 +4,6 @@ const dynamicCount = {
     
 }
 
-
-
-
-
 for ( const ellement of arr) {
  const type = typeof ellement;
 

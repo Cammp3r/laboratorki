@@ -1,5 +1,5 @@
 function incObj(num) {
-    num.n = num.n *3;
+    num.n = num.n + 1;
 
 }
 
