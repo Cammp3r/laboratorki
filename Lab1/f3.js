@@ -23,7 +23,7 @@ for( ellement of arr) {
     }
     else if(typeof ellement === "object") {
         staticCount.object++;
-    }
+    } else {return "error"}
 
 }
 
